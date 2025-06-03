@@ -38,7 +38,9 @@
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
         <div/>
-        <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=soo0864" width="42%" height="100%"/>
+        <div align= "right"> 
+            <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=soo0864" width="42%" height="100%"/>
+        </div>
         </div>
     </div>
     <div style="text-align: left;">
