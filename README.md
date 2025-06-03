@@ -38,7 +38,7 @@
           <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
           </div>
         <div style="text-align: right;">
-          <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ansrhdms15" width="42%" height="100%"/>
+          <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=soo0864" width="42%" height="100%"/>
         </div>
     </div>
     <div style="text-align: left;">
