@@ -5,6 +5,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀Who am I </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 문제를 논리적으로 분석하고, 체계적인 설계를 통해 해결책을 도출하는 백엔드 엔지니어 양수영입니다.</li><li> 저는 유연하고 꾸준히 성장하는 개발자입니다.</li><li> 좋은 사람들과 함께하고 싶습니다.</li> </div> 
     </div>
+     <div style="text-align: left;">Add commentMore actions
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div align= "center"> 
    <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
