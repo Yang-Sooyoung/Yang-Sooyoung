@@ -7,9 +7,9 @@
     </div>
    <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
-  <table>
+  <table border="0" style="border: none;">>
     <tr>
-      <td valign="top">
+      <td valign="top" style="border: none;">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
       </td>
-      <td valign="top" style="padding-left: 20px;">
+      <td valign="top" style="padding-left: 20px; border: none;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo0864">
       </td>
     </tr>
