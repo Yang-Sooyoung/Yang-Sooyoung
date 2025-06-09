@@ -39,7 +39,7 @@
           <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
         </div>
         <div align= "right"> 
-            [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo0864)](https://solved.ac/soo0864/)
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo0864">
         </div>
     </div>
     <div style="text-align: left;">
