@@ -8,7 +8,7 @@
    <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
   <table border="0" style="border: none;">
-    <tr style="border: none;">
+    <tr style="border-top: none;">
       <td valign="top" style="border: none;">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white">
