@@ -47,7 +47,7 @@
       </td>
       <td valign="top" style="padding-left: 20px; border: none;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo0864">
-          https://raw.githubusercontent.com/Yang-Sooyoung/baekjoon/master/static/result.svg
+        <img src="https://raw.githubusercontent.com/dvlpsy/baekjoon/master/static/result.svg" alt="프로그래머스">
       </td>
     </tr>
   </table>
