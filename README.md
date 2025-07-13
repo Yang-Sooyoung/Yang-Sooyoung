@@ -46,8 +46,8 @@
         <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
       </td>
       <td valign="top" style="padding-left: 20px; border: none;">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo0864">
         <img src="https://raw.githubusercontent.com/Yang-Sooyoung/PROGRAMMERS-BADGE/master/static/result.svg" alt="프로그래머스">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo0864">
       </td>
     </tr>
   </table>
